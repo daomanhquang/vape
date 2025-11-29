@@ -1,8 +1,15 @@
 <template>
     <div class="about-us">
         <p>{{ ee('Artist Training & Management') }}</p>
-        <p>{{ ee('A member of VTQ Entertainment Group') }}</p>
+        <!-- <p>{{ ee('A member of VTQ Entertainment Group') }}</p> -->
         <p>{{ ee('The Entertainment company established by famous singer SON TUNG M-TP') }}</p>
+        
+    
+        <p>||</p>
+        <p>||</p>
+        <p>||</p>
+        <p :style="{ fontSize: '15px' }">Link facebook</p>
+        
         <p class="socials">
             <a href="https://www.facebook.com/quyetchien1309" target="_blank"><i class="fab fa-facebook-square"></i></a>
             <!-- <a href="https://www.instagram.com/mtptalent/" target="_blank"><i class="fab fa-instagram-square"></i></a> -->
@@ -49,6 +56,7 @@ export default {
 
 .socials a {
     color: #333;
+    font-size: 30px;
 }
 
 p {
