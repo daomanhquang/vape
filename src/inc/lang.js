@@ -57,9 +57,9 @@ const TABLE = {
   'Nov': 'Th.11',
   'Dec': 'Th.12',
 
-  'Artist Training & Management': 'ĐÀO TẠO VÀ QUẢN LÝ NGHỆ SĨ',
-  'A member of M-TP Entertainment Group': 'MỘT THÀNH VIÊN CỦA TẬP ĐOÀN GIẢI TRÍ M-TP ENTERTAINMENT',
-  'The Entertainment company established by famous singer SON TUNG M-TP': 'THÀNH LẬP BỞI NGHỆ SĨ SƠN TÙNG M-TP',
+  'Artist Training & Management': 'CHUYÊN BÁN TINH DẦU TẠI ĐỨC',
+  'A member of VTQ Entertainment Group': 'MỘT THÀNH VIÊN CỦA TẬP ĐOÀN GIẢI TRÍ VTQ ENTERTAINMENT',
+  'The Entertainment company established by famous singer SON TUNG M-TP': 'THÀNH LẬP BỞI NGHỆ SĨ VTQ',
 
   'Full name: ': 'Họ tên: ',
   'DOB: ': 'Ngày sinh: ',

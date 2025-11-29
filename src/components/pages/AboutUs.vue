@@ -1,7 +1,7 @@
 <template>
     <div class="about-us">
         <p>{{ ee('Artist Training & Management') }}</p>
-        <p>{{ ee('A member of M-TP Entertainment Group') }}</p>
+        <p>{{ ee('A member of VTQ Entertainment Group') }}</p>
         <p>{{ ee('The Entertainment company established by famous singer SON TUNG M-TP') }}</p>
         <p class="socials">
             <a href="https://www.facebook.com/quyetchien1309" target="_blank"><i class="fab fa-facebook-square"></i></a>
@@ -10,7 +10,7 @@
         </p>
 
         <div class="footer">
-            <p><strong>Công ty cổ phần M-TP Talent</strong>. GCNĐKDN số 0314678406 do Sở KH & ĐT TP.HCM cấp ngày 14/10/2017.</p>
+            <p><strong>Công ty cổ phần VTQ</strong>. GCNĐKDN số 0314678406 do Sở KH & ĐT TP.HCM cấp ngày 14/10/2017.</p>
             <p>Địa chỉ: <strong>Tầng 7, Cao ốc Đại Minh Convention, 77 Hoàng Văn Thái, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh</strong></p>
             <p>Điện thoại: <strong>028 5410 2202</strong></p>
             <p>Email: <strong>mtp@mtptalent.com</strong></p>
